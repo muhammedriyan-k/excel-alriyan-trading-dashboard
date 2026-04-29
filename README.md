@@ -91,7 +91,7 @@ The goal was to simulate a real-world business analyst workflow — from raw dat
 
 ## 📊 Phase 3 — Pivot Tables
 
-![Pivot Analysis](Pivot_analysis.png)
+![Pivot Analysis](Pivotanalysis.png)
 
 | Pivot Table | Description | Key Finding |
 |---|---|---|

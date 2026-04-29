@@ -71,7 +71,7 @@ The goal was to simulate a real-world business analyst workflow — from raw dat
 
 ## 📐 Phase 2 — Analysis With Formulas
 
-![Analysis Sheet](Pivot analysis.png)
+![Analysis Sheet](Pivot_analysis.png)
 
 | Task | Formula Used | Result |
 |---|---|---|

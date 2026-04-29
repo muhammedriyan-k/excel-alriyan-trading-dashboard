@@ -71,7 +71,7 @@ The goal was to simulate a real-world business analyst workflow — from raw dat
 
 ## 📐 Phase 2 — Analysis With Formulas
 
-![Analysis Sheet](Pivot_analysis.png)
+![Analysis Sheet]([Pivot_analysis.png](https://github.com/muhammedriyan-k/excel-alriyan-trading-dashboard/blob/main/Pviot_analysis.png))
 
 | Task | Formula Used | Result |
 |---|---|---|
